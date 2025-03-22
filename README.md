@@ -137,6 +137,7 @@ cd calculator
 ```
 - Build the project file and then run the `.exe` file. Enjoy using the calculator! 🎉
 
+Or else, go to [Download](https://github.com/danielsuperone/CalculateV1/releases/tag/File)
 ---
 
 📜 License
