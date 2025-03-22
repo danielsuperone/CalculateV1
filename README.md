@@ -135,7 +135,7 @@ Navigate into the project directory:
 ```bash
 cd calculator
 ```
-- Open the index.html file in your web browser. Enjoy using the calculator! 🎉
+- Build the project file and then run the `.exe` file. Enjoy using the calculator! 🎉
 
 ---
 
